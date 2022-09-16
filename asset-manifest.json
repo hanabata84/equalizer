@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/equalizer/static/css/main.60f125ad.css",
+    "main.js": "/equalizer/static/js/main.978541d5.js",
+    "static/media/BG_shapes_xl.png": "/equalizer/static/media/BG_shapes_xl.38f4ef35b22d3e26295a.png",
+    "static/media/BG_shapes.png": "/equalizer/static/media/BG_shapes.23d6810fb1444986448e.png",
+    "static/media/BG_shapes_lg.png": "/equalizer/static/media/BG_shapes_lg.168bb83a7c3e243e15d7.png",
+    "static/media/BG_blur_circles.png": "/equalizer/static/media/BG_blur_circles.65e989ce9dac355899b8.png",
+    "static/media/card_phone_ipad.png": "/equalizer/static/media/card_phone_ipad.ce702aa11792aa8cf63b.png",
+    "static/media/card_phone_desktop.png": "/equalizer/static/media/card_phone_desktop.aa21ccefd06bdeb21434.png",
+    "static/media/card_phone.png": "/equalizer/static/media/card_phone.ecf6f9af1313cc841ea7.png",
+    "static/media/android-icon.svg": "/equalizer/static/media/android-icon.d6616d9a090a2c98a0e85ded734ceb76.svg",
+    "static/media/instagram.svg": "/equalizer/static/media/instagram.900cb50b74a57cbe222f725cdc4f5829.svg",
+    "static/media/twitter.svg": "/equalizer/static/media/twitter.45b835374c8478e895b390c07ba98eac.svg",
+    "static/media/apple-icon.svg": "/equalizer/static/media/apple-icon.f4a95c9e6020354092a22738086fe007.svg",
+    "static/media/facebook.svg": "/equalizer/static/media/facebook.2d81b1937db0e4d0ff79192415ac3813.svg",
+    "index.html": "/equalizer/index.html",
+    "main.60f125ad.css.map": "/equalizer/static/css/main.60f125ad.css.map",
+    "main.978541d5.js.map": "/equalizer/static/js/main.978541d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60f125ad.css",
+    "static/js/main.978541d5.js"
+  ]
+}
