@@ -2,12 +2,26 @@ import Hero from "./components/Hero";
 import Card from "./components/Card";
 import Footer from "./components/Footer";
 function App() {
+  const style = {
+    mainCont: `2xl:bg-bgShapeXl
+      xl:bg-bgShapeLg
+      lg:bg-bgShape
+      h-[100vh] bg-bgBlur bg-no-repeat bg-right-top flex flex-col items-center`,
+    topCont: `2xl:w-[1080px]
+      xl:mx-[185px]
+      lg:mx-[52px]
+      mx-5 pt-9`,
+    nav: `mb-10`,
+    heading: `xl:text-4xl
+      lg:mb-[100px] lg:mt-[50px] lg:text-[45px]
+      font-heading text-3xl font-bold`
+  }
   return (
     <div className="App">
-      <div className="h-[100vh] 2xl:bg-bgShapeXl xl:bg-bgShapeLg lg:bg-bgShape bg-bgBlur bg-no-repeat bg-right-top flex flex-col items-center">
-        <div className="2xl:w-[1080px] mx-5 xl:mx-[185px] lg:mx-[52px] pt-9">
-          <nav className="mb-10">
-            <h1 className="lg:mb-[100px] lg:mt-[50px] font-heading text-3xl lg:text-[45px] xl:text-4xl font-bold">equalizer</h1>
+      <div className={style.mainCont}>
+        <div className={style.topCont}>
+          <nav className={style.nav}>
+            <h1 className={style.heading}>equalizer</h1>
           </nav>
           <Hero />
         </div>
